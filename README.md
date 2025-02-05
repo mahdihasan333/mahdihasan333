@@ -1,14 +1,15 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY"  />
+  <img height="450" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">Hello There...👋 I am Mahdi Hassan</h1>
+<h1 align="center">Hello There...👋 I am Mahdi Hassan <br> Web Developer</h1>
+
 
 
 <div align="center">
