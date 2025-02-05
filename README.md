@@ -11,7 +11,11 @@
 <h1 align="center">Hello There...👋 I am Mahdi Hassan</h1>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahdihasan333&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_height=220)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mahdihasan333&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_height=220)](https://git.io/streak-stats)
+</div>
+
+
 
 
 
