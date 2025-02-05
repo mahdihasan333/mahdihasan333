@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY"  />
+  <img height="350" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY"  />
 </div>
 
 ###
@@ -9,6 +9,11 @@
 <br clear="both">
 
 <h1 align="center">Hello There...👋 I am Mahdi Hassan</h1>
+
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahdihasan333&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_height=220" alt="GitHub Streak" /></a>
+
 
 ###
 
