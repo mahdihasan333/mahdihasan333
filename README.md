@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahdihasan333&show_icons=true&theme=midnight-purple&border_radius=12" width="430" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihasan333&layout=compact&theme=midnight-purple" width="430" height="200" />
   
-  <br><br>
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=mahdihasan333&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=220" />
