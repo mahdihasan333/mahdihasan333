@@ -10,7 +10,7 @@
   
   <!-- GitHub Stats & Top Languages side-by-side -->
   <img src="https://github-readme-stats.vercel.app/api?username=mahdihasan333&show_icons=true&theme=midnight-purple&border_radius=12" width="430" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihasan333&layout=compact&theme=midnight-purple" width="430" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihasan333&layout=compact&theme=midnight-purple" width="430" height="180" />
   
 
   <!-- GitHub Streak -->
