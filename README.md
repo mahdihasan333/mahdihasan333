@@ -6,19 +6,13 @@
 
 ---
 
-
-
 <div align="center">
-
-
-
-
-
-  <!-- GitHub Stats & Languages side-by-side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdihasan333&show_icons=true&theme=midnight-purple&border_radius=12&card_width=430&card_height=200" width="450" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihasan333&layout=compact&theme=midnight-purple&card_width=430&card_height=200" width="450" height="200" />
-
-
+  
+  <!-- GitHub Stats & Top Languages side-by-side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdihasan333&show_icons=true&theme=midnight-purple&border_radius=12" width="430" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihasan333&layout=compact&theme=midnight-purple" width="430" height="200" />
+  
+  <br><br>
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=mahdihasan333&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=220" />
@@ -27,7 +21,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
   I am a web developer passionate about turning creative ideas into reality through clean and efficient coding. With a focus on modern design and user experience, I specialize in building dynamic and responsive web applications. <br><br>
@@ -36,7 +30,7 @@
 
 ---
 
-### 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
 <h4 align="center">
   📚 I'm currently learning Next.js <br> 
@@ -46,7 +40,7 @@
 
 ---
 
-### 🛠️ Technologies I Work With
+<h2 align="center">🛠️ Technologies I Work With</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -66,11 +60,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js" />
+  <img width="12" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-mahdi-hassan-rafi-0581a4299/" target="_blank">
