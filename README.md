@@ -1,20 +1,18 @@
-<h1 align="center">Hello There...👋 I am Mahdi Hassan <br> Web Developer</h1>
+<h1 align="center">Hello There...👋 I am Mahdi Hassan <br> MERN Stack Developer</h1>
 
 <div align="center">
-  <img height="450" src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY" />
+  <img height="450" src="https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=3840&fit=max" />
 </div>
 
 ---
 
 <div align="center">
   
-  <!-- GitHub Stats & Top Languages side-by-side -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mahdihasan333&show_icons=true&theme=midnight-purple&border_radius=12" width="430" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdihasan333&layout=compact&theme=midnight-purple" width="430" height="180" />
   </div>  
 
-  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=mahdihasan333&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=220" />
 
 </div>
@@ -24,8 +22,8 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I am a web developer passionate about turning creative ideas into reality through clean and efficient coding. With a focus on modern design and user experience, I specialize in building dynamic and responsive web applications. <br><br>
-  I am skilled in frontend development and am currently expanding my knowledge in backend technologies. Learning new tools and creating innovative solutions is my constant inspiration.
+  I am a <strong>MERN Stack Developer</strong> passionate about turning creative ideas into reality through clean and efficient coding. With a focus on modern design and user experience, I specialize in building dynamic and responsive web applications.<br><br>
+  I am skilled in frontend and backend development, leveraging the power of MongoDB, Express.js, React, and Node.js — and extending my expertise with tools like Mongoose, Redux, TypeScript, PostgreSQL, Zod, and Passport.js. Learning new technologies and creating innovative solutions is my constant inspiration.
 </p>
 
 ---
@@ -61,6 +59,21 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongoose/880000" height="40" alt="Mongoose" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" height="40" alt="Zod" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/passport/34E27A" height="40" alt="Passport.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
 
 ---
